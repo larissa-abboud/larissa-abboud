@@ -3,7 +3,7 @@ README.md
 
 
 
-## I'm a collage student majoring in computer science at Lebanese american university
+## I'm a collage student majoring in computer science at the Lebanese American University
 
 
 
