@@ -18,15 +18,13 @@ README.md
 &nbsp;&nbsp;
 
 
-### Languages and Tools:
+
 
 
 <br />
 <br />
 
----
 
----
 
 ---
 
