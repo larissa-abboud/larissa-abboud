@@ -25,5 +25,5 @@ Feel free to reach out if you'd like to collaborate on a project or discuss tech
 
 - I enjoy reading and writing.
 - I'm currently learning React Native and visual novel development.
-- 
+  
 Thanks for visiting my profile! Looking forward to connecting with you! 😊
