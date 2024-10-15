@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer who enjoys bui
 Here are some of the technologies and tools I use:
 
 - **Languages**: Python, JavaScript, Java, C, Golang, PHP  
-- **Frameworks**: Laravel, React, Flutter
+- **Frameworks**: Laravel, Flutter,Android studio
 - **Tools**: Git
-- **Databases**: MySQL, PostgreSQL, Oracle Database, MongoDB 
+- **Databases**: MySQL, Oracle Database, MongoDB 
 
 ## 🌱 Current Projects
 
