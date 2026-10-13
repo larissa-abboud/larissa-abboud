@@ -1,29 +1,30 @@
-# Hi there, I'm Larissa Abboud 👋
+# Hi, I'm Larissa Abboud 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Developer who enjoys building applications, creating websites, analyzing data, and more.
+**Final-year MIAGE master's student** at Université Toulouse Capitole, focused on **Java backend development**.
+Before my master's I worked for a year as a **full-stack developer**, automating business workflows (Oracle APEX, SQL, PL/SQL). I'm now looking for a **6-month software engineering internship from March 2027**, with a strong interest in **capital markets technology**, software architecture and performance.
 
-## 🔧 Technologies & Tools
+## 🚀 Current project
 
-Here are some of the technologies and tools I use:
+**[EODFlow](https://github.com/larissa-abboud/eodflow)**: a Java / Spring Boot engine that runs a trading portfolio's **end-of-day processing** (positions → P&L → report) as a **dependency graph of jobs**, with cycle detection, parallel execution on a thread pool, REST APIs, JUnit 5 tests and CI.
 
-- **Languages**: Python, JavaScript, Java, C, Golang, PHP  
-- **Frameworks**: Laravel, Flutter,Android studio
-- **Tools**: Git
-- **Databases**: MySQL, Oracle Database, MongoDB 
+## 📂 Other projects
 
-## 🌱 Current Projects
+- **Plantea**: Flutter mobile app with a Laravel REST backend and AI-powered plant identification (final-year bachelor's project, deployed)
 
-I’m currently working on an organization management application.
+## 🔧 Tech
 
-## 📫 How to Reach Me
+- **Languages:** Java, SQL, PL/SQL, Python, JavaScript / TypeScript, PHP, C, C++
+- **Backend & data:** Spring Boot, REST APIs, Laravel, Oracle APEX, PostgreSQL, Oracle Database, MySQL, MongoDB
+- **Tools & practices:** Git, GitHub Actions, Docker, Linux, JUnit 5, code reviews, technical documentation
+- **Front-end & mobile:** Flutter, Angular, React
 
-Feel free to reach out if you'd like to collaborate on a project or discuss technology!
+## 🌱 Currently learning
 
-- **Email**: lariabboud@gmail.com
+Java concurrency, workflow orchestration, and how financial systems handle trading and risk.
 
-## 📝 Fun Facts
+## 📫 Contact
 
-- I enjoy reading and writing.
-- I'm currently learning React Native and visual novel development.
-  
-Thanks for visiting my profile! Looking forward to connecting with you! 😊
+- **Email:** larissaabboud22@gmail.com
+- **LinkedIn:** [linkedin.com/in/larissa-abboud](https://www.linkedin.com/in/larissa-abboud/)
+
+_Outside of code, I enjoy reading and writing._
