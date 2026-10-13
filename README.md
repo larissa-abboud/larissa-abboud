@@ -15,7 +15,7 @@ Before my master's I worked for a year as a **full-stack developer**, automating
 
 - **Languages:** Java, SQL, PL/SQL, Python, JavaScript / TypeScript, PHP, C, C++
 - **Backend & data:** Spring Boot, REST APIs, Laravel, Oracle APEX, PostgreSQL, Oracle Database, MySQL, MongoDB
-- **Tools & practices:** Git, GitHub Actions, Docker, Linux, JUnit 5, code reviews, technical documentation
+- **Tools & practices:** Git, Git Lab,  GitHub Actions, Docker, Linux, JUnit 5, code reviews, technical documentation
 - **Front-end & mobile:** Flutter, Angular, React
 
 ## 🌱 Currently learning
